@@ -6,15 +6,20 @@
         <item
             android:id="@+id/nav_chitieu"
             android:icon="@drawable/ic_message"
-            android:title="Chi Tieu"></item>
+            android:title="Chi tiêu"></item>
         <item
             android:id="@+id/nav_thunhap"
             android:icon="@drawable/ic_chat"
-            android:title="Thu Nhap"></item>
+            android:title="Thu nhập"></item>
         <item
             android:id="@+id/nav_chuyenkhoan"
             android:icon="@drawable/ic_profile"
-            android:title="Chuyen Khoan"></item>
+            android:title="Chuyển khoản"></item>
+        <item
+            android:id="@+id/nav_thongke"
+            android:icon="@drawable/ic_monetization"
+            android:title="Thống kê"
+            ></item>
 
     </group>
 
