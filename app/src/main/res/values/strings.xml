@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaiTapLon</string>
+    <string name="email">admin</string>
+    <string name="password">admin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
